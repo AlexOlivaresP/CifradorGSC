@@ -1,0 +1,152 @@
+2023-05-07 21:13:42,464 | DEBUG:Iniciando executor de hilos | MainThread | <module> | 105|
+2023-05-07 21:13:42,469 | DEBUG:Ejecutando hilo 2 | MainThread | <module> | 108|
+2023-05-07 21:13:42,471 | DEBUG:Ejecutando hilo 1 | MainThread | <module> | 111|
+2023-05-07 21:13:42,471 | DEBUG:Iniciando servidor | ThreadPoolExecutor-0_1 | serverLocal | 32|
+2023-05-07 21:13:42,473 | DEBUG:Servidor iniciado | ThreadPoolExecutor-0_1 | serverLocal | 34|
+2023-05-07 21:13:44,497 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:13:51,769 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:13:58,837 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:06,004 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:13,163 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:20,239 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:27,308 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:34,480 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:41,642 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:48,696 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:14:55,850 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:03,052 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:10,310 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:17,362 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:24,553 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:31,810 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:38,983 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:46,040 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:15:53,212 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:16:08,480 | DEBUG:ESTAS EN GSC EN LA FUNCION SOLICITUD ... | ThreadPoolExecutor-0_1 | solicitud | 45|
+2023-05-07 21:16:08,480 | DEBUG:PROBANDO SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:16:08,480 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 50|
+2023-05-07 21:16:08,480 | DEBUG:ENVIANDO SOLICITUD AL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 52|
+2023-05-07 21:16:08,480 | DEBUG:CONECTADO AL SERVIDOR: http://192.168.1.183:3313/RPC2 Y ENVIANDO EL TEXTO... | ThreadPoolExecutor-0_1 | solicitud | 54|
+2023-05-07 21:16:08,988 | DEBUG:RECIBIENDO TEXTO CIFRADO DEL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 57|
+2023-05-07 21:16:08,988 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 59|
+2023-05-07 21:16:08,988 | DEBUG:RETORNANDO TEXTO CIFRADO AL CLIENTE ... | ThreadPoolExecutor-0_1 | solicitud | 61|
+2023-05-07 21:16:09,023 | DEBUG:ESTAS EN GSC EN LA FUNCION SOLICITUD ... | ThreadPoolExecutor-0_1 | solicitud | 45|
+2023-05-07 21:16:09,024 | DEBUG:PROBANDO SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:16:09,024 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 50|
+2023-05-07 21:16:09,024 | DEBUG:ENVIANDO SOLICITUD AL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 52|
+2023-05-07 21:16:09,024 | DEBUG:CONECTADO AL SERVIDOR: http://192.168.1.183:3313/RPC2 Y ENVIANDO EL TEXTO... | ThreadPoolExecutor-0_1 | solicitud | 54|
+2023-05-07 21:16:09,526 | DEBUG:RECIBIENDO TEXTO CIFRADO DEL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 57|
+2023-05-07 21:16:09,526 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 59|
+2023-05-07 21:16:09,527 | DEBUG:RETORNANDO TEXTO CIFRADO AL CLIENTE ... | ThreadPoolExecutor-0_1 | solicitud | 61|
+2023-05-07 21:17:05,836 | DEBUG:ESTAS EN GSC EN LA FUNCION SOLICITUD ... | ThreadPoolExecutor-0_1 | solicitud | 45|
+2023-05-07 21:17:05,836 | DEBUG:PROBANDO SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:17:05,836 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 50|
+2023-05-07 21:17:05,836 | DEBUG:ENVIANDO SOLICITUD AL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 52|
+2023-05-07 21:17:05,836 | DEBUG:CONECTADO AL SERVIDOR: http://192.168.1.183:3313/RPC2 Y ENVIANDO EL TEXTO... | ThreadPoolExecutor-0_1 | solicitud | 54|
+2023-05-07 21:17:09,028 | DEBUG:RECIBIENDO TEXTO CIFRADO DEL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 57|
+2023-05-07 21:17:09,029 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 59|
+2023-05-07 21:17:09,029 | DEBUG:RETORNANDO TEXTO CIFRADO AL CLIENTE ... | ThreadPoolExecutor-0_1 | solicitud | 61|
+2023-05-07 21:17:09,208 | DEBUG:ESTAS EN GSC EN LA FUNCION SOLICITUD ... | ThreadPoolExecutor-0_1 | solicitud | 45|
+2023-05-07 21:17:09,208 | DEBUG:PROBANDO SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:17:09,208 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 50|
+2023-05-07 21:17:09,208 | DEBUG:ENVIANDO SOLICITUD AL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 52|
+2023-05-07 21:17:09,208 | DEBUG:CONECTADO AL SERVIDOR: http://192.168.1.183:3313/RPC2 Y ENVIANDO EL TEXTO... | ThreadPoolExecutor-0_1 | solicitud | 54|
+2023-05-07 21:17:12,390 | DEBUG:RECIBIENDO TEXTO CIFRADO DEL SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 57|
+2023-05-07 21:17:12,390 | DEBUG:EL SERVIDOR http://192.168.1.183:3313/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 59|
+2023-05-07 21:17:12,390 | DEBUG:RETORNANDO TEXTO CIFRADO AL CLIENTE ... | ThreadPoolExecutor-0_1 | solicitud | 61|
+2023-05-07 21:17:57,123 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:04,093 | DEBUG:ESTAS EN GSC EN LA FUNCION SOLICITUD ... | ThreadPoolExecutor-0_1 | solicitud | 45|
+2023-05-07 21:18:04,093 | DEBUG:PROBANDO SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:18:04,093 | DEBUG:PROBANDO SERVIDOR http://192.168.1.75:3312/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:18:04,093 | DEBUG:EL SERVIDOR http://192.168.1.75:3312/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 50|
+2023-05-07 21:18:04,093 | DEBUG:ENVIANDO SOLICITUD AL SERVIDOR http://192.168.1.75:3312/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 52|
+2023-05-07 21:18:04,094 | DEBUG:CONECTADO AL SERVIDOR: http://192.168.1.75:3312/RPC2 Y ENVIANDO EL TEXTO... | ThreadPoolExecutor-0_1 | solicitud | 54|
+2023-05-07 21:18:04,291 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:08,497 | DEBUG:RECIBIENDO TEXTO CIFRADO DEL SERVIDOR http://192.168.1.75:3312/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 57|
+2023-05-07 21:18:08,497 | DEBUG:EL SERVIDOR http://192.168.1.75:3312/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 59|
+2023-05-07 21:18:08,497 | DEBUG:RETORNANDO TEXTO CIFRADO AL CLIENTE ... | ThreadPoolExecutor-0_1 | solicitud | 61|
+2023-05-07 21:18:08,657 | DEBUG:ESTAS EN GSC EN LA FUNCION SOLICITUD ... | ThreadPoolExecutor-0_1 | solicitud | 45|
+2023-05-07 21:18:08,658 | DEBUG:PROBANDO SERVIDOR http://192.168.1.183:3313/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:18:08,658 | DEBUG:PROBANDO SERVIDOR http://192.168.1.75:3312/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 48|
+2023-05-07 21:18:08,658 | DEBUG:EL SERVIDOR http://192.168.1.75:3312/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 50|
+2023-05-07 21:18:08,658 | DEBUG:ENVIANDO SOLICITUD AL SERVIDOR http://192.168.1.75:3312/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 52|
+2023-05-07 21:18:08,658 | DEBUG:CONECTADO AL SERVIDOR: http://192.168.1.75:3312/RPC2 Y ENVIANDO EL TEXTO... | ThreadPoolExecutor-0_1 | solicitud | 54|
+2023-05-07 21:18:12,884 | DEBUG:RECIBIENDO TEXTO CIFRADO DEL SERVIDOR http://192.168.1.75:3312/RPC2 ... | ThreadPoolExecutor-0_1 | solicitud | 57|
+2023-05-07 21:18:12,884 | DEBUG:EL SERVIDOR http://192.168.1.75:3312/RPC2 ESTA LIBRE ... | ThreadPoolExecutor-0_1 | solicitud | 59|
+2023-05-07 21:18:12,884 | DEBUG:RETORNANDO TEXTO CIFRADO AL CLIENTE ... | ThreadPoolExecutor-0_1 | solicitud | 61|
+2023-05-07 21:18:15,447 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:22,522 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:29,690 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:36,863 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:44,033 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:51,199 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:18:58,354 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:19:19,400 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:19:26,507 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:19:47,528 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:19:54,661 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:20:15,685 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:20:22,739 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:20:43,790 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:20:50,892 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:21:11,928 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:21:19,049 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:21:40,073 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:21:47,219 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:22:08,274 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:22:15,378 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:22:38,930 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:22:45,998 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:23:07,051 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:23:14,100 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:23:35,148 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:23:42,201 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:24:03,252 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:24:10,285 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:24:31,328 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:24:38,433 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:24:59,464 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:25:06,598 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:25:27,645 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:25:34,763 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:25:55,807 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:26:02,846 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:26:23,910 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:26:30,982 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:26:52,032 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:26:59,131 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:27:20,196 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:27:27,294 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:27:48,341 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:27:55,509 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:28:16,556 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:28:23,624 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:28:44,656 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:28:51,780 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:29:12,826 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:29:19,937 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:29:40,989 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:29:48,091 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:30:09,123 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:30:16,166 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:30:37,205 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:30:44,308 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:31:05,337 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:31:12,478 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:31:33,510 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:31:40,639 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:01,685 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:08,734 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:08,815 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:15,965 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:16,086 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:23,237 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:23,353 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:30,510 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:30,519 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:37,675 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:37,793 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:44,941 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:44,960 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:52,112 | DEBUG:Servidor http://192.168.1.183:3313/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
+2023-05-07 21:32:52,130 | DEBUG:Servidor http://192.168.1.75:3312/RPC2 caido | ThreadPoolExecutor-0_0 | Servidores | 23|
